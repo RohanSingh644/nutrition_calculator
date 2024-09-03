@@ -1,8 +1,5 @@
 <center><b>Nutrition Calculator</b></center>
 
-Here's a project description for your Nutrition Calculator:
-
----
 
 ## Nutrition Calculator
 
