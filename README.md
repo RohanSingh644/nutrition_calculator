@@ -1,4 +1,3 @@
-<center><b>Nutrition Calculator</b></center>
 
 
 ## Nutrition Calculator
